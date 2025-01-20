@@ -1,4 +1,4 @@
-# Clase base: Persona
+
 class Persona:
     """
     Clase base que representa a una persona con nombre y edad.
