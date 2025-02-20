@@ -1,0 +1,6 @@
+Producto             Cantidad   Precio    
+==========================================
+papas                3          $2.00
+galleta              8          $0.50
+cola                 3          $0.90
+cepillo              2          $1.00
