@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "123",
+        "Nombre": "coca",
+        "Cantidad": 12,
+        "Precio": 0.6
+    },
+    {
+        "ID": "987",
+        "Nombre": "tesalia",
+        "Cantidad": 23,
+        "Precio": 23.0
+    },
+    {
+        "ID": "213",
+        "Nombre": "galleta",
+        "Cantidad": 23,
+        "Precio": 12.0
+    },
+    {
+        "ID": "1213",
+        "Nombre": "ropa",
+        "Cantidad": 12,
+        "Precio": 76.0
+    }
+]
